@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-
+import ./app.css
 
 const initialBoard = Array(9).fill(null);
 
